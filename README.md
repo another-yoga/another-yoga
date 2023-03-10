@@ -1,16 +1,17 @@
-### Hi there 👋
+# About me
+👋 Hi, i'm a programmer<br/>
+⚡ I Interest to HTML, CSS, JavaScript, Typescript and Lua.<br/>
+👤 Pronouns: He/Him<br/>
 
-<!--
-**yoga-anime/yoga-anime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Project
+   - Icedev Website
+   - NexRails
 
-Here are some ideas to get you started:
+## Donate
+   - Saweria
+   - Trakteer
+   - Patreon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+   - Discord
+   - Instagram
