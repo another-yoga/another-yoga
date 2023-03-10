@@ -8,7 +8,7 @@
    - NexRails
 
 ## Donate
-   - Saweria
+   - [Saweria](https://saweria.co/yogaanime)
    - Trakteer
    - Patreon
 
