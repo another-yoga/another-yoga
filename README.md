@@ -5,7 +5,7 @@
 
 ## My Project
    - Icedev Website
-   - NexRails
+   - Nextr
 
 ## Donate
    - [Saweria](https://saweria.co/yogaanime)
