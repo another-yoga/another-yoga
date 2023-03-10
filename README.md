@@ -9,7 +9,7 @@
 
 ## Donate
    - [Saweria](https://saweria.co/yogaanime)
-   - Trakteer
+   - [Trakteer](https://trakteer.id/yoogaa)
    - Patreon
 
 ## Contact me
